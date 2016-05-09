@@ -4,7 +4,7 @@ imst lora node utility
 This is a nodejs utility for setting up IMST LORA modules via the UART interface.  it means you don't have to install Wimod End node studio if you are a mac user.
 
 It is a command like utility as follows 
-
+<pre>
 commands
 * set the port / baud *
 	imst ports 
@@ -45,5 +45,5 @@ commands
  
 	imst read 
 	imst watch 
-	
+</pre>	
 	
